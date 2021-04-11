@@ -13,3 +13,12 @@
 |1769. Minimum Number of Operations to Move All Balls to Each Box |https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/|
 |1282. Group the People Given the Group Size They Belong To|https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/|
 |`1307. Verbal Arithmetic Puzzle` 난이도: (hard) |https://leetcode.com/problems/verbal-arithmetic-puzzle/|
+
+### 3주차 문제 ✈️
+
+|문제|링크|
+|:--:|:--:|
+|`1689. Partitioning Into Minimum Number Of Deci-Binary Numbers`|https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/|
+|`1315. Sum of Nodes with Even-Valued Grandparent`|https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/|
+|`1817. Finding the Users Active Minutes`|https://leetcode.com/problems/finding-the-users-active-minutes/|
+|`980. Unique Paths III` 난이도: (hard) |https://leetcode.com/problems/unique-paths-iii/|
