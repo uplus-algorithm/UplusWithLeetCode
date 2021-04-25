@@ -1,5 +1,3 @@
-## 매주 마지막 문제는 `hard`난이도이며 도전해보고 싶으신분만 도전해봐용
-
 ### 1주차 문제 💯
 |문제|링크|
 |:--:|:--:|
@@ -30,3 +28,11 @@
 |`1641. Count Sorted Vowel Strings`|https://leetcode.com/problems/count-sorted-vowel-strings/|
 |`684. Redundant Connection`|https://leetcode.com/problems/redundant-connection/|
 |`1835. Find XOR Sum of All Pairs Bitwise AND` 난이도: (hard) |https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/|
+
+### 5주차 문제 🛁
+|문제|링크|
+|:--:|:--:|
+|`230. Kth Smallest Element in a BST`|https://leetcode.com/problems/kth-smallest-element-in-a-bst/|
+|`1011. Capacity To Ship Packages Within D Days`|https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/|
+|`986. Interval List Intersections`|https://leetcode.com/problems/interval-list-intersections/|
+|`763. Partition Labels`|https://leetcode.com/problems/partition-labels/|
