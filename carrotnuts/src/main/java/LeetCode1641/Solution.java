@@ -1,5 +1,6 @@
 package main.java.LeetCode1641;
 
+
 public class Solution {
     public int countVowelStrings(int n) {
         int[][] dp = new int[n][5];
@@ -13,6 +14,7 @@ public class Solution {
                 dp[i][k] = dp[i][k-1] - dp[i-1][k-1];
                 max += dp[i][k];
             }
+            
         }
 
         return max;
