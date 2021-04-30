@@ -36,3 +36,12 @@
 |`1011. Capacity To Ship Packages Within D Days`|https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/|
 |`986. Interval List Intersections`|https://leetcode.com/problems/interval-list-intersections/|
 |`763. Partition Labels`|https://leetcode.com/problems/partition-labels/|
+
+
+### 6주차 문제 ⏰
+|문제|링크|
+|:--:|:--:|
+|`260. Single Number III`|https://leetcode.com/problems/single-number-iii/|
+|`739. Daily Temperatures`|https://leetcode.com/problems/daily-temperatures/|
+|`921. Minimum Add to Make Parentheses Valid`|https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/|
+|`1833. Maximum Ice Cream Bars`|https://leetcode.com/problems/maximum-ice-cream-bars/|
