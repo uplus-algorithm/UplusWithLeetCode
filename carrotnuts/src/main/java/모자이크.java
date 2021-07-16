@@ -25,38 +25,45 @@ public class 모자이크 {
             widths[i] = Integer.parseInt(split[1]);
         }
 
-        int re = solution(numPaper, heights, widths);
+        int re = solution(numPaper, maxWidth, heights, widths);
         System.out.println(re);
     }
 
-    public static int solution(int numPaper, int[] heights, int[] widths) {
+    public static int solution(int numPaper, int maxWidth, int[] heights, int[] widths) {
 
         // minimum paper size = max height
-        int paperSize = Arrays.stream(heights).max().getAsInt();
+        int left = Arrays.stream(heights).max().getAsInt();
+        int right = maxWidth;
 
         // sort widths(x)
         Arrays.sort(widths);
 
-        while(true) {
-            int remain = paperSize - 1;
+        // binary search
+        while(left < right) {
 
+            // 색종이 크기
+            int mid = (left + right) / 2;
+
+            int remain = mid - 1;
             int cnt = 1;
-
             for (int i = 1; i < widths.length; i++) {
-                remain -= widths[i] - widths[i - 1];
+                int gap = widths[i] - widths[i - 1];
+                remain -= gap;
+
                 if(remain < 0) {
                     cnt += 1;
-                    remain = paperSize - 1;
+                    remain = mid - 1;
                 }
             }
 
             if (cnt <= numPaper) {
-                break;
+                right = mid;
             }
-
-            paperSize += 1;
+            else {
+                left = mid + 1;
+            }
         }
 
-        return paperSize;
+        return left;
     }
 }
