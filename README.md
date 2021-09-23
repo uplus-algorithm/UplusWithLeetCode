@@ -45,3 +45,11 @@
 |`739. Daily Temperatures`|https://leetcode.com/problems/daily-temperatures/|
 |`921. Minimum Add to Make Parentheses Valid`|https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/|
 |`1833. Maximum Ice Cream Bars`|https://leetcode.com/problems/maximum-ice-cream-bars/|
+------
+## 2021-09 이후 생존자 
+
+### 1주차.
+|문제|링크|
+|:--:|:--:|
+|`구간 합 구하기 4`|https://www.acmicpc.net/problem/11659|
+|`회전 초밥`|https://www.acmicpc.net/problem/15961|
