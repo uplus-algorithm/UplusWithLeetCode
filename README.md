@@ -51,5 +51,5 @@
 ### 1주차.
 |문제|링크|
 |:--:|:--:|
-|`구간 합 구하기 4`|https://www.acmicpc.net/problem/11659|
-|`회전 초밥`|https://www.acmicpc.net/problem/15961|
+|`16. 3Sum Closest`|https://leetcode.com/problems/3sum-closest/|
+|`142. Linked List Cycle II`|https://leetcode.com/problems/linked-list-cycle-ii/|
